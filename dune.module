@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: elasticity-tutorial
+Version: 0.0.1
+Maintainer: m
+# Required build dependencies
+Depends: dune-common dune-grid dune-istl dune-geometry dune-localfunctions dune-functions dune-typetree dune-uggrid dune-vtk dune-gmsh4 dune-curvedgeometry dune-curvedgrid dune-fufem dune-solvers dune-assembler
+# Optional build dependencies
+#Suggests:
